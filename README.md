@@ -5,9 +5,8 @@
 <!--- badges --->
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/connerferguson)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/connerferguson/)
-#
 
-#### :dragon: *Condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still Condor!* :dragon:
+##### :dragon: *Condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still Condor!* :dragon:
 
 #
 
