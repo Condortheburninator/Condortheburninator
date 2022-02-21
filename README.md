@@ -1,15 +1,14 @@
+## :fairy: hey, listen! :fairy:
 ### :dragon: Condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still Condor!
-
-<p align="center">
-  <img width="460" height="300" src="https://cdn.britannica.com/92/216092-050-4B31C2B7/custom-library.jpg?q=60">
-</p>
-
-#
 <!--- badges --->
-[<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/connerferguson) 
+[<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/connerferguson)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/connerferguson/)
 
+#
 
+<p align="center">
+    <img width="460" height="300" src="https://cdn.britannica.com/92/216092-050-4B31C2B7/custom-library.jpg?q=60">
+</p>
 
 #
 ### about me
@@ -19,11 +18,10 @@
 #
 ### skills
 
-| test          |        test|
+| languages          |        technologies   |
 |---------------|---------------|
-||
-||
+| mssql     | 
+| t-sql     |
+| python    |
 
 ###
-
-
