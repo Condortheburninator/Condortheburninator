@@ -1,9 +1,10 @@
+#
+
 ### :fairy: hey, listen! :fairy:
 
 #
 
-#### :dragon: :dragon: :dragon: :dragon:
-#### *Condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still Condor!*
+#### :dragon: *Condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still Condor!* :dragon:
 
 <!--- badges --->
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/connerferguson)
