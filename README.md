@@ -1,12 +1,12 @@
 #
 
-### :fairy: hey, listen! :fairy:
-
-##### :dragon: *condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still condor!* :dragon:
+## :dragon: hey, i'm condor
+##### :dragon: *condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still condor!*
 
 <!--- badges --->
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/connerferguson)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/connerferguson/)
+[<img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white">](https://www.goodreads.com/user/show/16114291-condor)
 
 #
 
@@ -29,3 +29,6 @@
 | python    |
 
 ###
+interests
+
+- reading
