@@ -45,3 +45,7 @@
 - :muscle: body weight fitness
 - :metal: going to metal concerts
 - :guitar: below average guitar player
+
+### fun fact(s)
+
+- lived in the following countries: egypt (twice), england, usa, singapore, indonesia, vietnam, thailand, malaysia, cote d'ivore
