@@ -16,12 +16,8 @@
 </p>
 
 #
-### about me
-:wave: hey there, i'm condor. currently, i'm a senior business intelligence analyst specialising in etl, programming, and reporting building. super interested in the data engineering space and am currently devouring all things:
-
-- airflow
-- dbt
-- great expectations
+### :cactus: about me
+hey there, i'm condor. currently, i'm a senior business intelligence analyst specialising in etl, programming, and reporting building. 
 
 <br>
 
@@ -33,6 +29,15 @@
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+# 
+
+### :seedling: currently learning
+super interested in the data engineering space and am currently devouring all things:
+
+- airflow
+- dbt
+- great expectations
 
 #
 
@@ -49,7 +54,7 @@
 
 #
 
-### interests
+### :ghost: interests
 
 - :books: reading, read 700+ books (across all genres) since 2013
 - :computer: mechanical keyboard enthusiast, working on 130 wpm
@@ -57,6 +62,8 @@
 - :mountain: hiking
 - :metal: going to metal concerts
 - :guitar: below average guitar player
+- :beer: craft beer, :wine_glass: natural wine, :coffee: third-wave coffee
+- :coffee: coffee roasting
 
 #
 
@@ -70,7 +77,7 @@
 
 ### bibliography
 - [spotify now playing](https://github.com/kittinan/spotify-github-profile)
-- [inspirtation](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [inspiration](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 #
 
