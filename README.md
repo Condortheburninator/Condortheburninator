@@ -33,15 +33,11 @@
 | python    | azure devops          | power bi              | git                   | microsoft dynamics 365 finance and supply chain mangement     |
 | mssql     | jira                  | tableau               | github                | netsuite                                                      |
 | t-sql     | asana                 | matplotlib            | azure repos           |                                                               |
-| pandas    | asana                 |                       | sql database projects |                                                               |
-| numpy     | asana                 |
+| pandas    |                       |                       | sql database projects |                                                               |
+| numpy     |
 
 #
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 ### interests
 
 - :books: reading, read 700+ books (across all genres) since 2013
