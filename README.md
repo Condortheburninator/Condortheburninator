@@ -1,7 +1,7 @@
 #
 
 ## :dragon: hey, i'm condor
-##### :dragon: *condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still condor!*
+#####  [*condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still condor!*](https://www.youtube.com/watch?v=90X5NJleYJQ)
 
 <!--- badges --->
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/connerferguson)
@@ -16,11 +16,15 @@
 
 #
 ### about me
-:wave: hey there, i'm condor. currently, i'm a business intelligence analyst specialising in etl, programming and reporting building. super interested in the data engineering space and am devouring all things airflow at the moment
-    - 
+:wave: hey there, i'm condor. currently, i'm a senior business intelligence analyst specialising in etl, programming and reporting building. super interested in the data engineering space and am currently devouring all things:
+
+- airflow
+- dbt
+- great expectations
 
 #
-### skills
+
+### :wrench: skills
 
 | languages          |        technologies   |
 |---------------|---------------|
@@ -28,7 +32,12 @@
 | t-sql     |
 | python    |
 
-###
-interests
+#
 
-- reading
+### interests
+
+- :books: reading, read 700+ books (across all genres) since 2013
+- :computer: mechanical keyboard enthusiast, working on 140 wpm
+- :muscle: body weight fitness
+- :metal: going to metal concerts
+- :guitar: below average guitar player
