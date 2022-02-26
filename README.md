@@ -23,11 +23,11 @@
 - dbt
 - great expectations
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
@@ -53,6 +53,8 @@
 - :muscle: body weight fitness
 - :metal: going to metal concerts
 - :guitar: below average guitar player
+
+#
 
 ### fun fact(s)
 
