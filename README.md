@@ -52,8 +52,9 @@
 ### interests
 
 - :books: reading, read 700+ books (across all genres) since 2013
-- :computer: mechanical keyboard enthusiast, working on 140 wpm
+- :computer: mechanical keyboard enthusiast, working on 130 wpm
 - :muscle: body weight fitness
+- :mountain: hiking
 - :metal: going to metal concerts
 - :guitar: below average guitar player
 
@@ -61,13 +62,4 @@
 
 ### fun fact(s)
 
-- lived in the following countries:
-    - :egypt: (twice)
-    - :gb:
-    - :us: (5 states)
-    - :singapore:
-    - :indonesia:
-    - :vietnam:
-    - :thailand:
-    - :malaysia:
-    - :cote_divoire:
+- lived in the following countries: :egypt: (twice)  :gb:  :us: (5 states)  :singapore:  :indonesia:  :vietnam:  :thailand:  :malaysia:  :cote_divoire:
