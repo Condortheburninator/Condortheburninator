@@ -62,4 +62,6 @@
 
 ### fun fact(s)
 
-- lived in the following countries: :egypt: (twice)  :gb:  :us: (5 states)  :singapore:  :indonesia:  :vietnam:  :thailand:  :malaysia:  :cote_divoire:
+- lived in the following countries: :egypt:  :gb:  :us:  :singapore:  :indonesia:  :vietnam:  :thailand:  :malaysia:  :cote_divoire:
+    - lived in :egypt: twice
+    - lived in 5 states :us:
