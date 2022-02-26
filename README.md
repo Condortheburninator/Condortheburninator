@@ -65,3 +65,12 @@
 - lived in the following countries: :egypt:  :gb:  :us:  :singapore:  :indonesia:  :vietnam:  :thailand:  :malaysia:  :cote_divoire:
     - lived in :egypt: twice
     - lived in 5 states :us:
+
+#
+
+### bibliography
+- [spotify now playing](https://github.com/kittinan/spotify-github-profile)
+- [inspirtation](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+#
+
