@@ -67,7 +67,7 @@ super interested in the data engineering space and am currently devouring all th
 
 #
 
-### fun fact(s)
+### :tada: fun fact(s)
 
 - lived in the following countries: :egypt:  :gb:  :us:  :singapore:  :indonesia:  :vietnam:  :thailand:  :malaysia:  :cote_divoire:
     - lived in :egypt: twice
@@ -75,7 +75,7 @@ super interested in the data engineering space and am currently devouring all th
 
 #
 
-### bibliography
+### :scroll: bibliography
 - [spotify now playing](https://github.com/kittinan/spotify-github-profile)
 - [inspiration](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
