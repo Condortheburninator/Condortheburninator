@@ -23,6 +23,9 @@
 - dbt
 - great expectations
 
+<br>
+
+#### :musical_note: currently listening to
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile) -->
