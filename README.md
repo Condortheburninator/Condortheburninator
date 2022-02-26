@@ -17,7 +17,7 @@
 
 #
 ### about me
-:wave: hey there, i'm condor. currently, i'm a senior business intelligence analyst specialising in etl, programming and reporting building. super interested in the data engineering space and am currently devouring all things:
+:wave: hey there, i'm condor. currently, i'm a senior business intelligence analyst specialising in etl, programming, and reporting building. super interested in the data engineering space and am currently devouring all things:
 
 - airflow
 - dbt
@@ -61,4 +61,13 @@
 
 ### fun fact(s)
 
-- lived in the following countries: egypt (twice), england, usa, singapore, indonesia, vietnam, thailand, malaysia, cote d'ivore
+- lived in the following countries:
+    - :egypt: (twice)
+    - :gb:
+    - :us: (5 states)
+    - :singapore:
+    - :indonesia:
+    - :vietnam:
+    - :thailand:
+    - :malaysia:
+    - :cote_divoire:
