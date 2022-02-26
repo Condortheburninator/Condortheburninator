@@ -1,4 +1,5 @@
 #
+<link rel="stylesheet" href="devicon.min.python ">
 
 ## :dragon: hey, i'm condor
 #####  [*condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still condor!*](https://www.youtube.com/watch?v=90X5NJleYJQ)
@@ -24,16 +25,23 @@
 
 #
 
-### :wrench: skills
+### :hammer_and_wrench: skills & tools
+<br>
 
-| languages          |        technologies   |
-|---------------|---------------|
-| mssql     | 
-| t-sql     |
-| python    |
+| languages | project managetment   | data visualisation    | source control        | erp                                                           |
+|:-:        |:-:                    |:-:                    |:-:                    |:-:                                                            |
+| python    | azure devops          | power bi              | git                   | microsoft dynamics 365 finance and supply chain mangement     |
+| mssql     | jira                  | tableau               | github                | netsuite                                                      |
+| t-sql     | asana                 | matplotlib            | azure repos           |                                                               |
+| pandas    | asana                 |                       | sql database projects |                                                               |
+| numpy     | asana                 |
 
 #
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 ### interests
 
 - :books: reading, read 700+ books (across all genres) since 2013
