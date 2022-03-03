@@ -12,7 +12,7 @@
 #
 
 <p align="center">
-    <img width="460" height="300" src="https://cdn.britannica.com/92/216092-050-4B31C2B7/custom-library.jpg?q=60">
+    <img width="550" height="300" src="https://cdn.britannica.com/92/216092-050-4B31C2B7/custom-library.jpg?q=60">
 </p>
 
 #
