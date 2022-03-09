@@ -1,6 +1,17 @@
 #
 <link rel="stylesheet" href="devicon.min.python ">
 
+```
+
+ _____ _____ _   _______ ___________ _____ _   _  ___________ _   _______ _   _ _____ _   _   ___ _____ ___________ 
+/  __ \  _  | \ | |  _  \  _  | ___ \_   _| | | ||  ___| ___ \ | | | ___ \ \ | |_   _| \ | | / _ \_   _|  _  | ___ \
+| /  \/ | | |  \| | | | | | | | |_/ / | | | |_| || |__ | |_/ / | | | |_/ /  \| | | | |  \| |/ /_\ \| | | | | | |_/ /
+| |   | | | | . ` | | | | | | |    /  | | |  _  ||  __|| ___ \ | | |    /| . ` | | | | . ` ||  _  || | | | | |    / 
+| \__/\ \_/ / |\  | |/ /\ \_/ / |\ \  | | | | | || |___| |_/ / |_| | |\ \| |\  |_| |_| |\  || | | || | \ \_/ / |\ \ 
+ \____/\___/\_| \_/___/  \___/\_| \_| \_/ \_| |_/\____/\____/ \___/\_| \_\_| \_/\___/\_| \_/\_| |_/\_/  \___/\_| \_|
+
+```
+
 ## :dragon: hey, i'm condor
 #####  :fire: [*condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still condor!*](https://www.youtube.com/watch?v=90X5NJleYJQ)
 
@@ -35,6 +46,7 @@ hey there, i'm condor. currently, i'm a senior business intelligence analyst spe
 ### :seedling: currently learning
 super interested in the data engineering space and am currently devouring all things:
 
+<!-- - <img src='https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin.svg' height='100' width='100'>  -->
 - airflow
 - dbt
 - great expectations
