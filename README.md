@@ -22,7 +22,6 @@
 
 ```
 
-## :dragon: hey, i'm condor
 #####  :fire: [*condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still condor!*](https://www.youtube.com/watch?v=90X5NJleYJQ)
 
 <!--- badges --->
