@@ -38,7 +38,7 @@
 
 #
 ### :cactus: about me
-hey there, i'm condor. currently, i'm a senior business intelligence analyst specialising in etl, programming, and reporting building. 
+hey there, i'm condor. currently, i'm a senior business intelligence analyst specialising in etl, programming, and report building. 
 
 <br>
 
