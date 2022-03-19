@@ -66,13 +66,28 @@ super interested in the data engineering space and am currently devouring all th
 ### :hammer_and_wrench: skills & tools
 <br>
 
-| languages | project managetment   | data visualisation    | source control        | erp                                                           |
-|:-:        |:-:                    |:-:                    |:-:                    |:-:                                                            |
-| python    | azure devops          | power bi              | git                   | microsoft dynamics 365 finance and supply chain mangement     |
-| mssql     | jira                  | tableau               | github                | netsuite                                                      |
-| t-sql     | asana                 | matplotlib            | azure repos           |                                                               |
-| pandas    |                       |                       | sql database projects |                                                               |
-| numpy     |
+--
+
+
+#### :scroll: languages
+- python, pandas, matplotlib numpy, sql, t-sql, mssql, git, markdown
+
+--
+
+#### :dvd: skills & software
+- project management (agile): azure devops, jira, asana
+
+- process mapping: lucid charts, visio
+
+- requirements gathering
+
+- data visualisation: power bi, tableau, matplotlib
+
+- data engineering (ETL / ELT): python, azure data factory, sql server reporting service (ssrs)
+
+- ide: visual studio, visual studio code, azure data studio
+
+- erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
 #
 
@@ -100,6 +115,6 @@ super interested in the data engineering space and am currently devouring all th
 ### :scroll: bibliography
 - [spotify now playing](https://github.com/kittinan/spotify-github-profile)
 - [inspiration](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [text to ascii converter](https://patorjk.com/software/taag/#p=display&v=0&f=Doom&t=CONDOR%0ATHEBURNINATOR)
 
 #
-
