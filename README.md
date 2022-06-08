@@ -77,7 +77,7 @@ super interested in the data engineering space and am currently devouring all th
 #### :dvd: skills & software
 - project management (agile): azure devops, jira, asana
 
-- process mapping: lucid charts, visio
+- process mapping: lucid charts, visio, notion, miro
 
 - requirements gathering
 
