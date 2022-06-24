@@ -75,19 +75,23 @@ super interested in the data engineering space and am currently devouring all th
 --
 
 #### :dvd: skills & software
-- project management (agile): azure devops, jira, asana
+- project management (agile): azure devops, jira, asana, notion
 
-- process mapping: lucid charts, visio, notion, miro
+- process mapping: lucid charts, miro, visio
 
 - requirements gathering
+
+- databases: azure sql, azure synapse, google bigquery
 
 - data visualisation: power bi, tableau, matplotlib
 
 - data engineering (ETL / ELT): python, azure data factory, sql server reporting service (ssrs)
 
-- ide: visual studio, visual studio code, azure data studio
+- ide: visual studio, visual studio code, azure data studio, DataGrip
 
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
+
+- crm: salesforce
 
 #
 
