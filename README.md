@@ -59,7 +59,8 @@ super interested in the data engineering space and am currently devouring all th
 <!-- - <img src='https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin.svg' height='100' width='100'>  -->
 - airflow
 - dbt
-- great expectations
+- big query
+- fivetran
 
 #
 
@@ -85,7 +86,7 @@ super interested in the data engineering space and am currently devouring all th
 
 - data visualisation: power bi, tableau, matplotlib
 
-- data engineering (ETL / ELT): python, azure data factory, sql server reporting service (ssrs)
+- data engineering (ETL / ELT): python, azure data factory, fivetran, sql server reporting service (ssrs)
 
 - ide: visual studio, visual studio code, azure data studio, DataGrip
 
