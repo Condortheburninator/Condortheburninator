@@ -88,7 +88,7 @@ super interested in the data engineering space and am currently devouring all th
 
 - data engineering (ETL / ELT): python, azure data factory, fivetran, sql server reporting service (ssrs)
 
-- ide: visual studio, visual studio code, azure data studio, DataGrip
+- ide: visual studio, visual studio code, azure data studio, datagrip
 
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
