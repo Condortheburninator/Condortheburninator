@@ -82,13 +82,13 @@ super interested in the data engineering space and am currently devouring all th
 
 - requirements gathering
 
-- databases: azure sql, azure synapse, google bigquery
+- databases: azure sql, azure synapse, google bigquery, aws dynamo db
 
 - data visualisation: power bi, tableau, matplotlib
 
 - data engineering (ETL / ELT): python, azure data factory, fivetran, sql server reporting service (ssrs)
 
-- ide: visual studio, visual studio code, azure data studio, datagrip
+- ide: visual studio, visual studio code, azure data studio, datagrip, aws nosql workbench
 
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
