@@ -84,7 +84,7 @@ super interested in the data engineering space and am currently devouring all th
 
 - databases: azure sql, azure synapse, google bigquery, aws dynamo db
 
-- data visualisation: power bi, tableau, matplotlib
+- data visualisation: power bi, tableau, sigma computing, google data studio, matplotlib
 
 - data engineering (ETL / ELT): python, azure data factory, fivetran, sql server reporting service (ssrs)
 
