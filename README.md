@@ -57,10 +57,14 @@ hey there, i'm condor. currently, i'm a business intelligence lead specialising 
 super interested in the data engineering space and am currently devouring all things:
 
 <!-- - <img src='https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin.svg' height='100' width='100'>  -->
-- airflow
+
 - dbt
-- big query
+- bigquery
 - fivetran
+- dayforce
+- salesforce
+- draftable
+- pendo
 
 #
 
