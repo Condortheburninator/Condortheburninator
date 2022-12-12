@@ -74,10 +74,10 @@ super interested in the data engineering space and am currently devouring all th
 --
 
 
-#### :scroll: languages
+<details><summary> #### :scroll: languages </summary><p>
 - python, pandas, matplotlib numpy, sql, t-sql, mssql, git, markdown
 
---
+ </p></details>
 
 <details><summary> :dvd: skills & software</summary><p>
 - project management (agile): azure devops, jira, asana, notion
