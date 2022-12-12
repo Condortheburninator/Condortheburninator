@@ -79,7 +79,7 @@ super interested in the data engineering space and am currently devouring all th
 
 --
 
-#### :dvd: skills & software
+<details><summary> :dvd: skills & software</summary><p>
 - project management (agile): azure devops, jira, asana, notion
 
 - process mapping: lucid charts, miro, visio
@@ -97,6 +97,8 @@ super interested in the data engineering space and am currently devouring all th
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
 - crm: salesforce
+ 
+ </p></details>
 
 #
 
