@@ -59,12 +59,8 @@ super interested in the data engineering space and am currently devouring all th
 <!-- - <img src='https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin.svg' height='100' width='100'>  -->
 
 - dbt
-- bigquery
-- fivetran
-- dayforce
-- salesforce
-- draftable
-- pendo
+- ❄️ snowflake
+
 
 #
 
