@@ -60,6 +60,7 @@ super interested in the data engineering space and am currently devouring all th
 
 - dbt
 - ❄️ snowflake
+- thoughtspot, mode, sigma computing
 
 
 #
@@ -82,21 +83,21 @@ super interested in the data engineering space and am currently devouring all th
  
 - project management (agile): azure devops, jira, asana, notion
 
-- process mapping: lucid charts, miro, visio
+- process mapping: lucid charts, miro, visio, draw.io
 
 - requirements gathering
 
-- databases: azure sql, azure synapse, google bigquery, aws dynamo db
+- databases: snowflake, azure sql, azure synapse, google bigquery, aws dynamo db
 
 - data visualisation: power bi, tableau, sigma computing, google data studio, matplotlib
 
-- data engineering (ETL / ELT): python, azure data factory, fivetran, sql server reporting service (ssrs)
+- data engineering (ETL / ELT): python, azure data factory (adf), fivetran, sql server reporting service (ssrs)
 
-- ide: visual studio, visual studio code, azure data studio, datagrip, aws nosql workbench
+- ide: visual studio code, azure data studio, datagrip, aws nosql workbench
 
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
-- crm: salesforce
+- systems: salesforce, pendo, google analytics 4
  
  </p></details>
 
