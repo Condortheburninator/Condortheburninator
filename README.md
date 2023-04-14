@@ -106,7 +106,7 @@ super interested in the data engineering space and am currently devouring all th
 ### :ghost: interests
 
 - :books: reading, read 700+ books (across all genres) since 2013
-- :computer: mechanical keyboard enthusiast, working on 130 wpm
+- :computer: mechanical keyboard enthusiast, working on 140 wpm
 - :muscle: body weight fitness
 - :mountain: hiking
 - :metal: going to metal concerts
