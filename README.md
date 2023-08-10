@@ -62,8 +62,6 @@ super interested in the data engineering space and am currently devouring all th
 - ❄️ snowflake
 - looker
 - airflow
-- heap
-- genesys & five9
 
 #
 
@@ -91,15 +89,15 @@ super interested in the data engineering space and am currently devouring all th
 
 - databases: snowflake, azure sql, azure synapse, google bigquery, aws dynamo db
 
-- data visualisation: power bi, tableau, sigma computing, google data studio, matplotlib
+- data visualisation: power bi, tableau, looker, sigma computing, looker studio (google data studio), matplotlib
 
-- data engineering (ETL / ELT): python, azure data factory (adf), fivetran, sql server reporting service (ssrs)
+- data engineering (ETL / ELT): python, airflow, azure data factory (adf), fivetran, sql server reporting service (ssrs)
 
-- ide: visual studio code, azure data studio, datagrip, aws nosql workbench
+- ide: visual studio code, datagrip, azure data studio, datagrip, aws nosql workbench
 
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
-- systems: salesforce, pendo, google analytics 4
+- systems: salesforce, pendo, google analytics 4, ciq
  
  </p></details>
 
