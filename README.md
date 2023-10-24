@@ -106,13 +106,12 @@ super interested in the data engineering space and am currently devouring all th
 ### :ghost: interests
 
 - :books: reading, read 700+ books (across all genres) since 2013
-- :computer: mechanical keyboard enthusiast, working on 140 wpm
+- :computer: mechanical keyboard enthusiast
 - :muscle: body weight fitness
 - :mountain: hiking
 - :metal: going to metal concerts
 - :guitar: below average guitar player
-- :beer: craft beer, :wine_glass: natural wine, :coffee: third-wave coffee
-- :coffee: coffee roasting
+- :beer: craft beer, :wine_glass: natural wine, :coffee: third-wave coffee & roasting
 
 #
 
