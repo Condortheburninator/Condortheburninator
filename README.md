@@ -26,8 +26,8 @@
 #####  :fire: [*condor was a man, (maybe) he was a dragon-man, (actually) he was just a dragon, but he was still condor!*](https://www.youtube.com/watch?v=90X5NJleYJQ)
 
 <!--- badges --->
-[<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/connerferguson)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/connerferguson/)
+[<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/connerferguson)
 [<img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white">](https://www.goodreads.com/user/show/16114291-condor)
 
 #
@@ -87,7 +87,9 @@ super interested in the data engineering space and am currently devouring all th
 
 - requirements gathering
 
-- databases: snowflake, azure sql, azure synapse, google bigquery, aws dynamo db
+- warehouses: snowflake, google bigquery, azure synapse
+
+- databases: azure sql, aws dynamo db, sql server, postgresql
 
 - data visualisation: power bi, tableau, looker, sigma computing, looker studio (google data studio), matplotlib
 
@@ -97,7 +99,7 @@ super interested in the data engineering space and am currently devouring all th
 
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
-- systems: salesforce, pendo, google analytics 4, ciq
+- systems: salesforce, pendo, google analytics 4, ciq, observe ai
  
  </p></details>
 
