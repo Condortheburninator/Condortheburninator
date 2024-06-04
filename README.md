@@ -60,8 +60,7 @@ super interested in the data engineering space and am currently devouring all th
 
 - dbt
 - ❄️ snowflake
-- looker
-- airflow
+- duckdb
 
 #
 
@@ -91,7 +90,7 @@ super interested in the data engineering space and am currently devouring all th
 
 - databases: azure sql, aws dynamo db, sql server, postgresql
 
-- data visualisation: power bi, tableau, looker, sigma computing, looker studio (google data studio), matplotlib
+- data visualisation: power bi, tableau, looker, sigma computing, looker studio (google data studio), matplotlib, mode
 
 - data engineering (ETL / ELT): python, airflow, azure data factory (adf), fivetran, sql server reporting service (ssrs)
 
