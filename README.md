@@ -60,7 +60,7 @@ super interested in the data engineering space and am currently devouring all th
 
 - dbt
 - ❄️ snowflake
-- duckdb
+- 🦆 duckdb
 
 #
 
