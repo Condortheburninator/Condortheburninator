@@ -49,7 +49,7 @@ hey there, i'm condor. currently, i'm an analytics / data / business intelligenc
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile]([https://spotify-github-profile.vercel.app](https://spotify-github-profile.kittinanx.com)/api/view?uid=condortheburninator&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 # 
 
