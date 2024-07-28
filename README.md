@@ -38,7 +38,9 @@
 
 #
 ### :cactus: about me
-hey there, i'm condor. currently, i'm an analytics / data / business intelligence engineer specialising in etl, programming, and report building. 
+👋 hey there, i'm condor. 
+
+currently, i'm an analytics engineer specialising in data transformations, automations, etl/elt and report building.
 
 <br>
 
