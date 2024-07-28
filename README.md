@@ -43,20 +43,14 @@ hey there, i'm condor. currently, i'm an analytics / data / business intelligenc
 <br>
 
 #### :musical_note: currently listening to
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile) -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=condortheburninator&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d709bc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=condortheburninator&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=condortheburninator&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # 
 
 ### :seedling: currently learning
 super interested in the data engineering space and am currently devouring all things:
-
-<!-- - <img src='https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin.svg' height='100' width='100'>  -->
 
 - 🦆 duckdb
 - dbt
