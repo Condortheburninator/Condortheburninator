@@ -54,8 +54,8 @@ currently, i'm an analytics engineer specialising in data transformations, autom
 ### :seedling: currently learning
 super interested in the data engineering space and am currently devouring all things:
 
-- 🦆 duckdb
-- dbt
+- 🦆 duckdb & ducklake
+- cursor
 
 
 #
@@ -76,25 +76,25 @@ super interested in the data engineering space and am currently devouring all th
 <details><summary> :dvd: skills & software</summary><p>
  
  
-- project management (agile): azure devops, jira, asana, notion
+- project management (agile): azure devops, jira, asana, notion, trello
 
-- process mapping: lucid charts, miro, visio, draw.io
+- process mapping: lucid charts, miro, visio, draw.io, figjam
 
 - requirements gathering
 
-- warehouses: snowflake, google bigquery, azure synapse
+- warehouses: snowflake, google bigquery, azure synapse, duckdb
 
-- databases: azure sql, aws dynamo db, sql server, postgresql
+- databases: azure sql, aws dynamo db, sql server, postgresql, mongo
 
-- data visualisation: power bi, tableau, looker, sigma computing, looker studio (google data studio), matplotlib, mode
+- data visualisation: power bi, tableau, looker, sigma computing, looker studio (google data studio), matplotlib, mode, omni analytics
 
-- data engineering (ETL / ELT): python, airflow, azure data factory (adf), fivetran, sql server reporting service (ssrs)
+- data engineering (ETL / ELT): python, airflow, azure data factory (adf), fivetran, sql server integration services (ssis), dbt
 
-- ide: visual studio code, datagrip, azure data studio, datagrip, aws nosql workbench
+- ide: visual studio code, datagrip, azure data studio, aws nosql workbench, cursor
 
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
-- systems: salesforce, pendo, google analytics 4, ciq, observe ai
+- systems: salesforce, pendo, google analytics 4, ciq, observe ai, persona
  
  </p></details>
 
@@ -102,7 +102,7 @@ super interested in the data engineering space and am currently devouring all th
 
 ### :ghost: interests
 
-- :books: reading, read 700+ books (across all genres) since 2013
+- :books: reading, read 800+ books (across all genres) since 2013
 - :computer: mechanical keyboard enthusiast
 - :muscle: body weight fitness
 - :mountain: hiking
