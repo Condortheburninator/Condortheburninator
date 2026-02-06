@@ -54,8 +54,8 @@ currently, i'm an analytics engineer specialising in data transformations, autom
 ### :seedling: currently learning
 super interested in the data engineering space and am currently devouring all things:
 
-- 🦆 duckdb & ducklake
-- cursor
+- 🦆 duckdb
+- claude code
 
 
 #
@@ -86,9 +86,9 @@ super interested in the data engineering space and am currently devouring all th
 
 - databases: azure sql, aws dynamo db, sql server, postgresql, mongo
 
-- data visualisation: power bi, tableau, looker, sigma computing, looker studio (google data studio), matplotlib, mode, omni analytics
+- data visualisation: power bi, tableau, looker, sigma computing, looker studio (google data studio), matplotlib, mode, omni analytics, hex
 
-- data engineering (ETL / ELT): python, airflow, azure data factory (adf), fivetran, sql server integration services (ssis), dbt
+- data engineering (ETL / ELT): python, airflow, azure data factory (adf), fivetran, stitch, sql server integration services (ssis), dbt
 
 - ide: visual studio code, datagrip, azure data studio, aws nosql workbench, cursor
 
