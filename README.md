@@ -52,7 +52,7 @@ currently, i'm an analytics engineer specialising in data transformations, autom
 # 
 
 ### :seedling: currently learning
-super interested in the data engineering space and am currently devouring all things:
+super interested in the analytics engineering and ai space and am currently devouring all things:
 
 - 🦆 duckdb
 - claude code
