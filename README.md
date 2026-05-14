@@ -56,6 +56,7 @@ super interested in the analytics engineering and ai space and am currently devo
 
 - 🦆 duckdb
 - claude code
+- vector databases and embeddings (chroma, pinecone, turbopuffer)
 
 
 #
