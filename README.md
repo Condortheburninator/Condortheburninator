@@ -68,7 +68,7 @@ super interested in the analytics engineering and ai space and am currently devo
 <details><summary> :scroll: languages </summary><p>
  
  
-- python, pandas, matplotlib numpy, sql, t-sql, mssql, git, markdown
+- python, pandas, typescript, sql, t-sql, snowsql, postgresql, mssql, git, markdown
 
  <br>
  
