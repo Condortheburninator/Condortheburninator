@@ -79,7 +79,7 @@ super interested in the analytics engineering and ai space and am currently devo
  
 - project management (agile): azure devops, jira, asana, notion, trello
 
-- process mapping: lucid charts, miro, visio, draw.io, figjam
+- process mapping: lucid charts, miro, visio, draw.io, figjam, mermaid charts
 
 - requirements gathering
 
@@ -95,6 +95,8 @@ super interested in the analytics engineering and ai space and am currently devo
 
 - erp: microsoft dynamics 365 finance and supply chain mangement, netsuite
 
+- workflow automation: railway, retool
+
 - systems: salesforce, pendo, google analytics 4, ciq, observe ai, persona
  
  </p></details>
@@ -104,12 +106,10 @@ super interested in the analytics engineering and ai space and am currently devo
 ### :ghost: interests
 
 - :books: reading, read 800+ books (across all genres) since 2013
-- :computer: mechanical keyboard enthusiast
 - :muscle: body weight fitness
 - :mountain: hiking
 - :metal: going to metal concerts
 - :guitar: below average guitar player
-- :beer: craft beer, :wine_glass: natural wine, :coffee: third-wave coffee & roasting
 
 #
 
