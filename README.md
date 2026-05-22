@@ -40,7 +40,7 @@
 ### :cactus: about me
 👋 hey there, i'm condor. 
 
-currently, i'm an analytics engineer specialising in data transformations, automations, etl/elt and report building.
+i'm an ai automation / analytics engineer specialising in data transformations, automations, etl/elt and report building.
 
 <br>
 
